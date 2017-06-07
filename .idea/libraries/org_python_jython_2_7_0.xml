@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="org.python:jython:2.7.0" type="repository">
+    <properties maven-id="org.python:jython:2.7.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/Demo/embed" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/Demo/jreload/src" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/ast/test" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/bugtests" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/bugtests/classes" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/installer/src/java" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/installer/test/java" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/src" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/tests/data/initializer" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/tests/java" />
+      <root url="jar://$PROJECT_DIR$/lib/jython-2.7.0-sources.jar!/tests/modjy/java" />
+    </SOURCES>
+  </library>
+</component>
